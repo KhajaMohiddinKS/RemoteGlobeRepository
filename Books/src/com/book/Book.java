@@ -6,6 +6,8 @@ public class Book {
 	}
 
 	public static void main(String args[]) {
-		Book onj=new Book();
+		Book obj=new Book();
+		
+		System.out.println("This is my Time");
 	}
 }
